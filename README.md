@@ -116,6 +116,8 @@ This project includes an `Ola DA Project SQL.sql` file containing all the SQL qu
 
 This file simplifies setting up the project and ensures all queries and views are executed in a single step.
 
+</details>
+
 ---
 
 <details>
@@ -208,7 +210,7 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
 </div>
 </ul>
 
-<h3><li> Vehicle Type 🚗:</li></h3>  
+<h3><li> Vehicle Type :</li></h3>  
 <ul>  
   <li>Top 5 Vehicle Types by Ride Distance: Show the top 5 vehicle types based on ride distance.</li>  
   <br>
@@ -271,8 +273,10 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
 2. Open the file in **Power BI Desktop**.
 3. Explore the dashboards and insights interactively.
 
+</details>
+
 ---
 
 ## Acknowledgments
 
-A big shoutout to [Top VarSity](https://www.youtube.com/@TopVarSity) for their helpful tutorial that guided this project. A heartfelt thanks to Top VarSity for sharing valuable insights in their YouTube video tutorial, which can be found [here](https://www.youtube.com/watch?si=29Ikp70AdbmvziIh&v=1uPUyT9LoHQ&feature=youtu.be). Your content played a significant role in shaping the success of this project!
+A big shoutout to [Top VarSity](https://www.youtube.com/@TopVarSity) for their helpful tutorial that guided this project. A heartfelt thanks to Top VarSity for sharing valuable insights in their YouTube video tutorial. Your content played a significant role in shaping the success of this project!
